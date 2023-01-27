@@ -1,0 +1,58 @@
+ <div class="middle-container">
+        <div class="profile">
+          <img class="profile-pic" src="images/profile-picture.png" alt="profile-pic">
+          <h2 class="bio-text">Hello.</h2>
+          <p class="bio-text">I'm a Mechatronics Engineer, currently studying The complete 2023 Web Development Bootcamp.
+            I have 10 years of product design experience. I have skills in 3D printing, Electronics Design, PCB Design, Microcontroller programing,
+            Indutrial Design and 3D Modeling. Autodesk Inventor, Fusion 360 and Altium Desinger are the tools with which I have worked the most.
+            I love coffee, writing Haikus, Videogames and cooking.</p>
+        </div>
+        <div class="skills">
+          <h2 class="skills-texts">What Can I do.</h2>
+          <div class="skill-row">
+            <table class="table">
+                <tr>
+                    <td>
+                        <div class="div-circular">
+                            <img class="circuit-board4" src="images/circuit-board 4.png" alt="circuit-img">
+                        </div>    
+                    </td>
+                    <td>
+                        <h3 class="skills-texts">Electronics & PCB Design</h3>
+                        <p class="skills-texts">Electronics architecture for embeded systems, IoT, Comercial, and Industrial Applications. PCB Layout design using Altium Designer</p>
+                    </td>
+                </tr>
+            </table>
+          </div>
+          <div class="skill-row">
+            <table class="table-2">
+                <tr>
+                    <td>
+                        <h3 class="skills-texts">3D Modeling</h3>
+                        <p class="skills-texts">Industrial Design for Housings, prototyping, 3D Printing, and end product</p>
+                    </td>
+                    <td>
+                        <div class="div-circular">
+                            <img class="model-3D" src="images/3d-model.png" alt="3D-model-img">
+                        </div>
+                    </td>
+                </tr>
+            </table>
+          </div>
+        </div>
+        <div class="skill-row">
+            <table class="table-3">
+                <tr>
+                    <td>
+                        <div class="div-circular">
+                            <img class="printer" src="images/3d-printer (1).png" alt="3D-printer-img">  
+                        </div>
+                    </td>
+                    <td>
+                        <h3 class="skills-texts">3D Printing</h3>
+                        <p class="skills-texts">Make your ideas a reality using FFM 3D printers for concept validation and prototyping</p>
+                    </td>
+                </tr>
+            </table>
+          </div>
+        </div>
